@@ -21,6 +21,7 @@ The historical trade dataset is large and exceeds GitHub's file size limits.
 Therefore, it is not included directly in this repository.
 
 link: https://drive.google.com/drive/folders/1-7w7fm5E6dpHmm45ZIysiXBVa7XWXHNX?usp=sharing
+
 To reproduce the analysis:
 1. Download the datasets from the provided links in the assignment
 2. Place them inside a `data/` folder in the project root
@@ -66,4 +67,5 @@ To reproduce the analysis:
 
 ## How to Run
 1. Clone or download this repository.
+
 2. Install required libraries:
